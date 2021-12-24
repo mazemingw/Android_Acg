@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navHOME"
+            android:icon="@drawable/home_24px"
+            android:title="Home" />
+        <item
+            android:id="@+id/navSRARCH"
+            android:icon="@drawable/search_24px"
+            android:title="Search" />
+        <item
+            android:id="@+id/navSTAR"
+            android:icon="@drawable/grade_24px"
+            android:title="Star" />
+        <item
+            android:id="@+id/navDOWNLOAD"
+            android:icon="@drawable/get_app_24px"
+            android:title="Download" />
+        <item
+            android:id="@+id/navSETTING"
+            android:icon="@drawable/settings_24px"
+            android:title="Setting" />
+        <item
+            android:id="@+id/navABOUT"
+            android:icon="@drawable/help_outline_24px"
+            android:title="About us" />
+        <item
+            android:id="@+id/navEXIT"
+            android:icon="@drawable/exit_to_app_24px"
+            android:title="Exit" />
+    </group>
+</menu>
